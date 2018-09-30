@@ -1,3 +1,4 @@
 [submodule "SubtestRepo"]
 	path = SubtestRepo
 	url = https://github.com/learnerabcd/SubtestRepo.git
+	branch = develop
